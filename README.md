@@ -11,7 +11,7 @@
 - __Discord:__ [Anatoli Paliukhovich](https://discordapp.com/users/anatoli0243)
 - __Telegram:__ [Anatoli Paliukhovich](https://t.me/Anatoli_Paliukhovich)
 ### Languages and Tools
-<img alt="HTML5 icon" width="30px" src="img/html.svg">   <img alt="CSS3 icon" width="30px" src="img/css.svg">   <img alt="SASS icon" width="30px" src="img/sass.png">   <img alt="JS icon" width="30px" src="img/js.svg">   <img alt="BEM icon" width="30px" src="img/bem.svg">   <img alt="Figma icon" width="30px" src="img/figma.svg">
+<img alt="HTML5 icon" width="30px" src="img/html.svg">   <img alt="CSS3 icon" width="30px" src="img/css.svg">  <img alt="BEM icon" width="30px" src="img/bem.svg">  <img alt="SASS icon" width="30px" src="img/sass.png">   <img alt="JS icon" width="30px" src="img/js.svg">   <img alt="Figma icon" width="30px" src="img/figma.svg">
 <!---
 Anatoli-Paliukhovich/Anatoli-Paliukhovich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
