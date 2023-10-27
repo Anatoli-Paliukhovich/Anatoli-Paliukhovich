@@ -1,3 +1,4 @@
+<img alt="profile" width="200" src="img/profile.png">
 ## 👋 Hi, I’m Anatoli
 ### 💬 About myself  
  👀 I’m interested in Frontend Development  
