@@ -16,8 +16,9 @@
 ### My Projects
  Project title            |   Deploy link
 --------------------------|:-----------------------:
+CV                        |   [Curriculum Vitae](https://Anatoli-Paliukhovich.github.io/rsschool-cv/)
 Library                   |   [Library](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/library/)
-Custom Audio Player       |   [Audio-player](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/random-game/)
+Custom Audio Player       |   [Audio-player](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30audioplayer/)
 Image gallery             |   [Image-gallery](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30image-galery/)
 CssMemSlider              |   [CssMemSlider](https://anatoli-paliukhovich.github.io/cssMemeSlider/cssMemeSlider/index.html)
 Random game               |   [Flappy bird](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/random-game/)
