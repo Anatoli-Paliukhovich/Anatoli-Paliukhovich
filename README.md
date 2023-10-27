@@ -1,4 +1,4 @@
-<img alt="profile" src="img/profile.png">  
+[<img alt="profile" src="img/profile.png">](https://Anatoli-Paliukhovich.github.io/rsschool-cv/)
 
 ## 👋 Hi, I’m Anatoli
 ### 💬 About myself  
