@@ -4,10 +4,10 @@
 
 ### 💬 About myself
 
-👀 I’m interested in Frontend Development
-🌱 I’m result-oriented and opened to new knowledge
-💻 I'm ready to do my best to become a Frontend Developer
-🔭 I’m currently learning TS/React
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m result-oriented and opened to new knowledge
+- 💻 I'm ready to do my best to become a Frontend Developer
+- 🔭 I’m currently learning TS/React
 
 ### 📫 How to reach me
 
