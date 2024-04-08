@@ -2,10 +2,10 @@
 
 ## 👋 Hi, I’m Anatoli
 ### 💬 About myself
- 👀 I’m interested in Frontend Development  
+ 👀 I’m interested in Frontend Development
  🌱 I’m result-oriented and opened to new knowledge
  💻 I'm ready to do my best to become a Frontend Developer
- 🔭 I’m currently learning TS/React
+ 🔭 I’m currently learning TS/React  
 ### 📫 How to reach me
 - __Phone:__ +375298244325
 - __E-mail:__ [humanities5050@gmail.com](humanities5050@gmail.com)
