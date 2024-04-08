@@ -4,18 +4,18 @@
 
 ### 💬 About myself
 
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m result-oriented and opened to new knowledge
-- 💻 I'm ready to do my best to become a Frontend Developer
-- 🔭 I’m currently learning TS/React
+  👀 I’m interested in Frontend Development
+  🌱 I’m result-oriented and opened to new knowledge
+  💻 I'm ready to do my best to become a Frontend Developer
+  🔭 I’m currently learning TS/React
 
 ### 📫 How to reach me
 
--[x] **Phone:** +375298244325
--[x] **E-mail:** [humanities5050@gmail.com](humanities5050@gmail.com)
--[x] **LinkedIn:** [Anatoli Paliukhovich](https://www.linkedin.com/in/anatoli-paliukhovich-545b07215/)
--[x] **Discord:** [Anatoli Paliukhovich](https://discordapp.com/users/anatoli0243)
--[x] **Telegram:** [Anatoli Paliukhovich](https://t.me/Anatoli_Paliukhovich)
+- **Phone:** +375298244325
+- **E-mail:** [humanities5050@gmail.com](humanities5050@gmail.com)
+- **LinkedIn:** [Anatoli Paliukhovich](https://www.linkedin.com/in/anatoli-paliukhovich-545b07215/)
+- **Discord:** [Anatoli Paliukhovich](https://discordapp.com/users/anatoli0243)
+- **Telegram:** [Anatoli Paliukhovich](https://t.me/Anatoli_Paliukhovich)
 
 ### Languages and Tools
 
