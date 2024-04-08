@@ -11,11 +11,11 @@
 
 ### 📫 How to reach me
 
-- **Phone:** +375298244325
-- **E-mail:** [humanities5050@gmail.com](humanities5050@gmail.com)
-- **LinkedIn:** [Anatoli Paliukhovich](https://www.linkedin.com/in/anatoli-paliukhovich-545b07215/)
-- **Discord:** [Anatoli Paliukhovich](https://discordapp.com/users/anatoli0243)
-- **Telegram:** [Anatoli Paliukhovich](https://t.me/Anatoli_Paliukhovich)
+-[x] **Phone:** +375298244325
+-[x] **E-mail:** [humanities5050@gmail.com](humanities5050@gmail.com)
+-[x] **LinkedIn:** [Anatoli Paliukhovich](https://www.linkedin.com/in/anatoli-paliukhovich-545b07215/)
+-[x] **Discord:** [Anatoli Paliukhovich](https://discordapp.com/users/anatoli0243)
+-[x] **Telegram:** [Anatoli Paliukhovich](https://t.me/Anatoli_Paliukhovich)
 
 ### Languages and Tools
 
