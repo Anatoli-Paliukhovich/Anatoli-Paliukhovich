@@ -30,7 +30,7 @@
 | --------------------- | :-----------------------------------------------------------------------------------------------------------------: |
 | CV                    |                       [Curriculum Vitae](https://Anatoli-Paliukhovich.github.io/rsschool-cv/)                       |
 | Self-introduction(EN) |      [Video/text](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/self-introduction/)       |
-| Coffee house          |        [Coffee house](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/coffee-house)         |
+| Coffee house          |        [Coffee house](https://anatoli-paliukhovich.github.io/coffee-house/index.html)         |
 | Custom Audio Player   |  [Audio-player](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30audioplayer/)  |
 | Image gallery         | [Image-gallery](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30image-galery/) |
 | Library               |        [Library](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/library/)         |
