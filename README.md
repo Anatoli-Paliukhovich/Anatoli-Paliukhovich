@@ -10,7 +10,7 @@
 
 💻 I'm ready to do my best to become a Frontend Developer
 
-🔭 I’m currently learning TS/React  
+🔭 I’m currently learning TS/React
 
 ### 📫 How to reach me
 
@@ -22,17 +22,18 @@
 
 ### Languages and Tools
 
-<img alt="HTML5 icon" width="40px" src="img/html.svg"> <img alt="CSS3 icon" width="40px" src="img/css.svg"> <img alt="BEM icon" width="40px" src="img/bem.svg"> <img alt="SASS icon" width="40px" src="img/sass.png"> <img alt="JS icon" width="40px" src="img/js.svg"> <img alt="Figma icon" width="40px" src="img/figma.svg"> <img alt="Git icon" width="40px" src="img/git.png">
+<img alt="HTML5 icon" width="40px" src="img/html.svg"> <img alt="CSS3 icon" width="40px" src="img/css.svg"> <img alt="BEM icon" width="40px" src="img/bem.svg"> <img alt="SASS icon" width="40px" src="img/sass.png"> <img alt="JS icon" width="40px" src="img/js.svg"> <img alt="Figma icon" width="40px" src="img/figma.svg"> <img alt="Git icon" width="40px" src="img/git.png"> <img src="img/ts.png" width="40px" alt="ts"> <img src="img/react.svg" width="40px" alt="react"> <img src="img/redux.png" width="40px" alt="redux">
 
 ### My Projects
 
 | Project title         |                                                     Deploy link                                                     |
 | --------------------- | :-----------------------------------------------------------------------------------------------------------------: |
+| EnglishEase-app       |                         [EnglishEase](https://anatoli-paliukhovich.github.io/english-app/)                          |
 | CV                    |                       [Curriculum Vitae](https://Anatoli-Paliukhovich.github.io/rsschool-cv/)                       |
 | Self-introduction(EN) |      [Video/text](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/self-introduction/)       |
-| Coffee house          |        [Coffee house](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/coffee-house)         |
 | Custom Audio Player   |  [Audio-player](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30audioplayer/)  |
 | Image gallery         | [Image-gallery](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30image-galery/) |
+| Coffee house          |        [Coffee house](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/coffee-house)         |
 | Library               |        [Library](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/library/)         |
 | CssMemSlider          |            [CssMemSlider](https://anatoli-paliukhovich.github.io/cssMemeSlider/cssMemeSlider/index.html)            |
 | Random game           |    [Flappy bird](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/random-game/)     |
