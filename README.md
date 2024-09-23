@@ -33,7 +33,7 @@
 | Self-introduction(EN) |      [Video/text](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/self-introduction/)       |
 | Custom Audio Player   |  [Audio-player](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30audioplayer/)  |
 | Image gallery         | [Image-gallery](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/js30image-galery/) |
-| Coffee house          |        [Coffee house](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFE2023Q4/coffee-house)         |
+| Coffee house          |                        [Coffee house](https://anatoli-paliukhovich.github.io/coffee-house/)                         |
 | Library               |        [Library](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/library/)         |
 | CssMemSlider          |            [CssMemSlider](https://anatoli-paliukhovich.github.io/cssMemeSlider/cssMemeSlider/index.html)            |
 | Random game           |    [Flappy bird](https://rolling-scopes-school.github.io/anatoli-paliukhovich-JSFEPRESCHOOL2023Q2/random-game/)     |
